@@ -63,7 +63,7 @@ AWS • Google Cloud • Azure • Docker • Git • GitHub • Jenkins • CI/
 
 ### Testing & Development Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=jest,mocha,cypress,postman,figma,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=jest,cypress,postman,figma,vscode,linux" />
 </p>
 
 <p align="center">
