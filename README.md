@@ -3,7 +3,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
 I’m **Dorjan Rrapushaj**, a passionate and results-driven **Full-Stack Developer** with over **8 years of professional experience** at Infosof, a software house specializing in scalable enterprise and web solutions.
 
@@ -15,9 +15,9 @@ I’m driven by continuous learning, clean architecture, and delivering real bus
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🎨 Frontend Development
+### Frontend Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,js,ts,css,tailwind" />
 </p>
@@ -28,7 +28,7 @@ React • Angular • Next.js • TypeScript • JavaScript • HTML5 • CSS3 �
 
 ---
 
-### ⚙️ Backend Development
+### Backend Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,php,laravel,symfony,java,spring" />
 </p>
@@ -39,7 +39,7 @@ Node.js • NestJS • Laravel • Symfony • PHP • Java • Spring Boot
 
 ---
 
-### 🗄️ Databases & Backend Services
+### Databases & Backend Services
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,firebase,supabase" />
 </p>
@@ -50,7 +50,7 @@ MySQL • MongoDB • PostgreSQL • Redis • Firebase • Supabase
 
 ---
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,github,jenkins,cloudflare,vercel,netlify" />
 </p>
@@ -61,7 +61,7 @@ AWS • Google Cloud • Azure • Docker • Git • GitHub • Jenkins • CI/
 
 ---
 
-### 🧪 Testing & Development Tools
+### Testing & Development Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=jest,mocha,cypress,postman,figma,vscode,linux" />
 </p>
@@ -72,37 +72,15 @@ Jest • Mocha • Cypress • TDD • Postman • Figma • VS Code • Linux
 
 ---
 
-## 🚀 Professional Highlights
+## Professional Highlights
 
-- 💼 **8+ years** Full-Stack Development experience at Infosof  
-- 🧪 **4+ years applying Test-Driven Development (TDD)**  
-- ☁️ Strong experience with **AWS & Google Cloud infrastructure**  
-- 🔁 Advanced **CI/CD automation** with Jenkins & GitHub workflows  
-- 🏗️ Experience building **scalable microservices & enterprise apps**  
-- 🗃️ Deep knowledge of **SQL & NoSQL databases**  
-- ⚡ Focused on **performance, clean architecture & scalability**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00D9FF&style=flat-square&label=Profile+Views" />
-</div>
+- **8+ years** Full-Stack Development experience at Infosof  
+- **4+ years applying Test-Driven Development (TDD)**  
+- Strong experience with **AWS & Google Cloud infrastructure**  
+- Advanced **CI/CD automation** with Jenkins & GitHub workflows  
+- Experience building **scalable microservices & enterprise apps**  
+- Deep knowledge of **SQL & NoSQL databases**  
+- Focused on **performance, clean architecture & scalability**
 
 ---
 
-## 🤝 Let's Connect
-
-- 💼 Open to collaboration and challenging projects
-- 🚀 Always building, learning, and improving
-- 📫 Reach out for freelance, remote, or product collaboration opportunities
-
----
-
-⭐ *“Building scalable, reliable, and impactful software with clean architecture and modern technologies.”*
